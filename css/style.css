@@ -22,7 +22,9 @@ hr{
 }
 button{
     padding: 6px;
-    border-radius: 10px;
+    border: none;
+    border-radius: 15px;
+    font-size: 10px;
 }
 li{
     margin-bottom: 10px;
@@ -77,11 +79,17 @@ ul{
 /* main */
 .container{
     width: 50%;
-    border: 2px solid grey;
+    /* border: 2px solid grey; */
     border-radius: 10px;
+    margin-top: 20px;
     margin: 0 auto;
     background-color: white;
 }
 .add{
     margin: 20px;
+}
+.head-border{
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 20px;
 }
