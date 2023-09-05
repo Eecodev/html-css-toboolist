@@ -15,6 +15,11 @@ section{
     margin-left: 20px;
     margin-top: 20px;
 }
+hr{
+    height: 5px;
+    border: none;
+    background-color: #f6f8f9;
+}
 button{
     padding: 6px;
     border-radius: 10px;
