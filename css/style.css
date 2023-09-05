@@ -11,16 +11,15 @@ body{
 header, main, section{
     margin-bottom: 20px;
 }
+section{
+    margin-left: 20px;
+    margin-top: 20px;
+}
 li{
     margin-bottom: 10px;
 }
 ul{
     list-style: none;
-}
-.container{
-    width: 50%;
-    border: 1px solid grey;
-    margin: 0 auto;
 }
 
 /* colors */
@@ -62,4 +61,17 @@ ul{
 }
 .title{
     display: inline-block;
+    vertical-align: middle;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+/* main */
+.container{
+    width: 50%;
+    border: 2px solid grey;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.add{
+    margin: 20px;
 }
