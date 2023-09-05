@@ -75,6 +75,7 @@ ul{
     border: 2px solid grey;
     border-radius: 10px;
     margin: 0 auto;
+    background-color: white;
 }
 .add{
     margin: 20px;
