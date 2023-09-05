@@ -8,8 +8,7 @@
 body{
     background-color: #f6f8f9;
 }
-
-header, main, div, section{
+header, main, section{
     margin-bottom: 20px;
 }
 li{
@@ -54,3 +53,13 @@ ul{
     color: grey;
 }
 
+/* header */
+.banner{
+    padding: 10px;
+}
+.logo{
+    vertical-align: middle;
+}
+.title{
+    display: inline-block;
+}
