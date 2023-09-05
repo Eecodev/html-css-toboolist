@@ -5,18 +5,23 @@
 }
 
 /* general */
+body{
+    background-color: #f6f8f9;
+}
 
 header, main, div, section{
     margin-bottom: 20px;
 }
-
 li{
     margin-bottom: 10px;
 }
-
+ul{
+    list-style: none;
+}
 .container{
     width: 50%;
     border: 1px solid grey;
+    margin: 0 auto;
 }
 
 /* colors */
@@ -25,7 +30,7 @@ li{
     background-color: #45abea;
 }
 .white-bg{
-    background-color: #000000;
+    background-color: #ffffff;
 }
 .purple-bg{
     background-color: #9c72e4;
