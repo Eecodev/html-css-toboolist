@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* general */
+
+header, main, div, section{
+    margin-bottom: 20px;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+.container{
+    width: 50%;
+    border: 1px solid grey;
+}
+
+/* colors */
+
+.blue-bg{
+    background-color: #45abea;
+}
+.white-bg{
+    background-color: #000000;
+}
+.purple-bg{
+    background-color: #9c72e4;
+}
+.green-bg{
+    background-color: #64c0a9;
+}
+.orange-bg{
+    background-color: #f29e33;
+}
+.pink-bg{
+    background-color: #d863a1;
+}
+.light-green-bg{
+    background-color: #b0c926;
+}
+.white-text{
+    color: white;
+}
+#grey-text{
+    color: grey;
+}
+
