@@ -87,6 +87,7 @@ ul{
 }
 .add{
     margin: 20px;
+    border-bottom: 2px solid #f6f8f9;
 }
 .main-div-border{
     border-radius: 5px;
